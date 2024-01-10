@@ -2,7 +2,7 @@ local usingPole = false
 local nearestPole = nil
 
 Citizen.CreateThread(function()
-    print("Created by BKing Development")
+    print("Created by BKing Development / Forked SkyHigh Modifications")
     print("shop.bradleyking.xyz")
 
     while true do
