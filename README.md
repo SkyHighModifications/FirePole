@@ -1,4 +1,4 @@
-Introducing the newest FiveM script by **BKing Development**: Fire Pole.
+Introducing the newest FiveM script by **BKing Development / SkyHigh Modifictions**: *Fire Pole*.
 
  
 
@@ -24,10 +24,20 @@ You can add as many poles as you want within this script. You can even add multi
 
  
 
-# Contact Us
+# BKing Development Contact Us
 
 Want to get in contact with us? Here are a couple places you can do so:
 
 [Our Discord](https://discord.com/invite/v28Tk7snj4)
 
 [Our Website](https://shop.bradleyking.xyz)
+
+------------------------------------------------------
+
+# SkyHigh Modifications Contact Us
+
+Want to get in contact with us? Here are a couple places you can do so:
+
+[Our Discord](https://discord.gg/tKQgdQuJYF)
+
+[Our Website](https://skyhigh-modifications.tebex.io/)
